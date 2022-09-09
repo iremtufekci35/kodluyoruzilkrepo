@@ -3,7 +3,7 @@
 ---
 *Bu repo* [Kodluyoruz](https://kodluyoruz.org)  *Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.*
 
-![Lorem Picsum Gorsel]([https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png?raw=true](https://avatars.mds.yandex.net/get-images-cbir/1993081/Hnjfd0PaMrNFho2yNpy1iw1060/ocr))
+![Lorem Picsum Gorsel](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png?raw=true](https://avatars.mds.yandex.net/get-images-cbir/1993081/Hnjfd0PaMrNFho2yNpy1iw1060/ocr)
 
 ## Installation
 ---
